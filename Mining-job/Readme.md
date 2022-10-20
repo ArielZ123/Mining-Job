@@ -7,7 +7,7 @@ About the job: you have two mining zones, one is for stones and the other is for
 You have to get 15 stones / rocks to smelt them and then go to sell a pack of your smelted stones / rocks.
 #
 Script Features:
-1) Mining effect - when hitting a stone / rock you will see 
+1) Mining effect - when hitting a stone / rock.
 2) The mine shaft in open until the day(23:00).
 3) You need to have a pickaxe as an item to be able to mine.
 4) sound when hitting the stone / rock.
