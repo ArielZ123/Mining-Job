@@ -195,6 +195,10 @@ Citizen.CreateThread(function()
 		   DisableControlAction(0, 142, true)
 		   DisableControlAction(0, 143, true)
         end
+			
+	if not NearMarker then
+           Citizen.Wait(1000)
+        end
         Citizen.Wait(0)
     end
 end)
