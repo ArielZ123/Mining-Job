@@ -12,7 +12,7 @@ INSERT INTO `items` (`name`, `label`, `weight`) VALUES
    ('Grandidierite', 'Grandidierite', 1),
    ('Serendibite', 'Serendibite', 1),
    ('Musgravite', 'Musgravite', 1),
-   ('Pickaxe', 'Pickaxe', 1),
+   ('pickaxe', 'Pickaxe', 1),
    ('Smelted_stones_pack', 'Stones pack', 1),
    ('Smelted_rocks_pack', 'Rocks pack', 1)
 ;
