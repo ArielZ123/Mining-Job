@@ -43,7 +43,7 @@ local Rocks_list = { -- Add more rocks to list.
 ESX.RegisterServerCallback('mining:server:haspickaxe', function(source, cb)
     local _source = source
     local xPlayer = ESX.GetPlayerFromId(_source)
-    local PickaxeQuantity = xPlayer.getInventoryItem('Pickaxe').count
+    local PickaxeQuantity = xPlayer.getInventoryItem('pickaxe').count
     if PickaxeQuantity >= 1 then
         cb(true)
     else
